@@ -1,0 +1,57 @@
+#Trading-Card {
+  width: 350px;
+  height: 575px;
+  border: medium solid saddlebrown;
+  border-radius: 5px;
+  background: url("Paper Background.jpg") no-repeat;
+  background-size: 350px 575px;
+}
+h2 {
+  width: 300px;
+  display: block;
+  margin: 15px;
+  color: #2c7e2d;
+  padding: 5px;
+  border: medium double sienna;
+  background-color: #ececec;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 300px;
+  border: medium solid sienna;
+}
+.Information {
+  display: block;
+  border: medium solid #2c7e2d;
+  border-radius: 10px;
+  margin: 10px 5px;
+  background: url("Papier.jpg") no-repeat;
+  background-size: cover;
+}
+.Flavor {
+  font-style: italic;
+  padding-left: 15px;
+  padding-right: 5px;
+}
+ul {
+  list-style-type: none;
+  }
+.li {
+  font-weight: bold
+}
+#Binomial {
+  font-style: italic;
+}
+.Attacks {
+  display: inline-flex;
+  flex-direction: column;
+}
+.Text {
+  display: inline;
+  font-size: 75%;
+}
+.Description {
+  padding-left: 15px;
+  padding-right: 5px;
+}
